@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <color name="actionbar_background">#99ffffff</color>
+    <dimen name="activity_padding_small">10dp</dimen>
+    <dimen name="activity_pane_spacing">12dp</dimen>
+    <dimen name="activity_side_padding">20dp</dimen>
+    <dimen name="activity_vert_padding">20dp</dimen>
+    <dimen name="body_padding_large">20dp</dimen>
+    <dimen name="body_padding_medium">10dp</dimen>
+    <dimen name="colorstrip_height">4dp</dimen>
+    <dimen name="detail_breadcrumb_height">40dp</dimen>
+    <dimen name="detail_pane_padding">16dp</dimen>
+    <dimen name="panel_button_height">64dp</dimen>
+    <dimen name="panel_button_width">64dp</dimen>
+    <dimen name="schedule_hour_height">80dp</dimen>
+    <dimen name="speaker_image_padding">16dp</dimen>
+    <dimen name="speaker_image_size">64dp</dimen>
+    <dimen name="tab_height">56dp</dimen>
+    <dimen name="tab_side_padding">30dp</dimen>
+    <dimen name="text_size_xlarge">32sp</dimen>
+    <dimen name="thickbar_height">200dp</dimen>
+    <dimen name="vendor_image_size">100dp</dimen>
+    <dimen name="whats_on_height">40dp</dimen>
+    <plurals name="whats_on_countdown_title">
+        <item quantity="zero"><ns1:g id="remaining_time">%2$s</ns1:g> until IETF 95</item>
+        <item quantity="one"><ns1:g id="number_of_days">%1$s</ns1:g> day, <ns1:g id="remaining_time">%2$s</ns1:g> until IETF 95</item>
+        <item quantity="other"><ns1:g id="number_of_days">%1$s</ns1:g> days, <ns1:g id="remaining_time">%2$s</ns1:g> until IETF 95</item>
+    </plurals>
+    <style name="ActionBar" parent="android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/actionbar_background</item>
+        <item name="android:textColor">@color/accent_1</item>
+        <item name="android:titleTextStyle">@style/ActionBarText</item>
+    </style>
+    <style name="ActionBarText" parent="android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/accent_1</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="DashboardButton">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:drawablePadding">3dp</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/accent_1</item>
+        <item name="android:background">@null</item>
+    </style>
+    <style name="ListItemContainerBase">
+        <item name="android:minHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="android:background">?android:attr/activatedBackgroundIndicator</item>
+    </style>
+    <style name="TextBody">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:lineSpacingMultiplier">1.3</item>
+        <item name="android:textColor">@color/body_text_1</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="TextHeaderSub">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/body_text_2</item>
+        <item name="android:textIsSelectable">true</item>
+    </style>
+    <style name="Theme.IOSched" parent="android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/window_background</item>
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="textHeaderMaxLines">3</item>
+        <item name="trackAbstractMaxLines">6</item>
+    </style>
+    <style name="Theme.IOSched.Home" parent="style/Theme.IOSched">
+        <item name="android:windowBackground">@drawable/window_background_home</item>
+        <item name="android:actionBarStyle">@null</item>
+    </style>
+    <style name="WhatsOnStaticItem" parent="style/WhatsOnItemBase">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/body_text_1</item>
+        <item name="android:maxLines">2</item>
+    </style>
+</resources>

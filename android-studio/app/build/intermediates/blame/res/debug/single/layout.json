@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/activity_tracks.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/activity_tracks.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/tab_indicator.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/tab_indicator.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_schedule.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_schedule.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/list_item_session.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/list_item_session.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/tabs_container.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/tabs_container.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/activity_starred.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/activity_starred.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_dashboard.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_whats_on.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_whats_on.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/whats_on_stream.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/whats_on_stream.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/tab_session_summary.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/tab_session_summary.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/whats_on_countdown.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/whats_on_countdown.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/list_item_track.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/list_item_track.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/actionbar.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/actionbar.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/blocks_content.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/blocks_content.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/colorstrip.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/colorstrip.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/tab_session_links.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/tab_session_links.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/list_item_vendor.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/list_item_vendor.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/speaker_detail.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/speaker_detail.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_vendor_detail.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_vendor_detail.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/whats_on_thank_you.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/whats_on_thank_you.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/list_item_session_link.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/list_item_session_link.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_session_detail.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_session_detail.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/activity_singlepane_empty.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/activity_singlepane_empty.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_webview_with_spinner.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_webview_with_spinner.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/fragment_list_with_spinner.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/fragment_list_with_spinner.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/whats_on_now_playing.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/whats_on_now_playing.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/tab_session_notes.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/tab_session_notes.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout/list_item_vendor_oneline.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout/list_item_vendor_oneline.xml"
+    }
+]

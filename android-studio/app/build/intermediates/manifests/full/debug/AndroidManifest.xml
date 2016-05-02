@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2011 Google Inc.
+  Copyright 2011 Isabelle Dalmasso.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.dalmasso.ietfsched"
+    android:installLocation="auto"
+    android:versionCode="24"
+    android:versionName="0.1.24" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <permission
+        android:name="org.dalmasso.ietfsched.permission.WRITE_SCHEDULE"
+        android:description="@string/permission_write"
+        android:label="@string/permission_write"
+        android:protectionLevel="normal" />
+
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.IOSched" >
+
+        <!-- android:hardwareAccelerated="true">  // Cause problems showing Schedule for Android 4.1.x -->
+        <!-- Activities for both phones and tablets -->
+
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.HomeActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.IOSched.Home" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.StarredActivity"
+            android:label="@string/title_starred" />
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.WellNoteActivity"
+            android:label="@string/title_well_note" />
+
+        <!-- Phone-only activities -->
+
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.phone.ScheduleActivity"
+            android:label="@string/title_schedule" />
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.phone.TracksActivity"
+            android:label="@string/title_tracks" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="vnd.android.cursor.dir/vnd.ietfsched.track" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.phone.SessionsActivity"
+            android:label="@string/title_sessions" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.TAB" />
+
+                <data android:mimeType="vnd.android.cursor.dir/vnd.ietfsched.session" />
+            </intent-filter>
+        </activity>
+        <activity android:name="org.dalmasso.ietfsched.ui.phone.SessionDetailActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="vnd.android.cursor.item/vnd.ietfsched.session" />
+            </intent-filter>
+        </activity>
+
+        <!-- Tablet-only activities -->
+
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.tablet.SessionsMultiPaneActivity"
+            android:label="@string/title_sessions" />
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.tablet.ScheduleMultiPaneActivity"
+            android:label="@string/title_schedule" />
+        <activity
+            android:name="org.dalmasso.ietfsched.ui.tablet.NowPlayingMultiPaneActivity"
+            android:label="@string/title_now_playing" />
+
+        <!-- Other manifest items -->
+
+        <service android:name="org.dalmasso.ietfsched.service.SyncService" />
+
+        <provider
+            android:name="org.dalmasso.ietfsched.provider.ScheduleProvider"
+            android:authorities="org.dalmasso.ietfsched"
+            android:writePermission="org.dalmasso.ietfsched.permission.WRITE_SCHEDULE" />
+
+        <activity
+            android:name="com.mattprecious.telescope.RequestCaptureActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+
+</manifest>

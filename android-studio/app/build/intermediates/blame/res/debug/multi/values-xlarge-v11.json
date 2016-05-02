@@ -1,0 +1,616 @@
+[
+    {
+        "outputFile": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/values-xlarge-v11/values-xlarge-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 56,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 56,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 53,
+                    "endOffset": 211
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 53,
+                        "endOffset": 977
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 216,
+                    "endColumn": 52,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 52,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 52,
+                    "endOffset": 317
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 769,
+                        "endColumn": 52,
+                        "endOffset": 817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 322,
+                    "endColumn": 52,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 52,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 49,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1458,
+                        "endColumn": 49,
+                        "endOffset": 1503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 50,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1407,
+                        "endColumn": 50,
+                        "endOffset": 1453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 47,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 47,
+                        "endOffset": 669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 55,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1085,
+                        "endColumn": 55,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 50,
+                    "endOffset": 626
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1034,
+                        "endColumn": 50,
+                        "endOffset": 1080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 631,
+                    "endColumn": 50,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1281,
+                        "endColumn": 50,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 49,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 49,
+                        "endOffset": 1276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 51,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 982,
+                        "endColumn": 51,
+                        "endOffset": 1029
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 52,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1558,
+                        "endColumn": 52,
+                        "endOffset": 1606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 49,
+                    "endOffset": 882
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1508,
+                        "endColumn": 49,
+                        "endOffset": 1553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 887,
+                    "endColumn": 41,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 41,
+                        "endOffset": 1178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endColumn": 47,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1183,
+                        "endColumn": 47,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 47,
+                    "endOffset": 1020
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 47,
+                        "endOffset": 1402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1025,
+                    "endColumn": 47,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 674,
+                        "endColumn": 47,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 49,
+                    "endOffset": 1118
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1611,
+                        "endColumn": 49,
+                        "endOffset": 1656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1123,
+                    "endColumn": 46,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 46,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endLine": 27,
+                    "endColumn": 14,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 652,
+                        "endLine": 20,
+                        "endColumn": 14,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1595,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1892
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1446,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 1743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1897,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2117
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1215,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2122,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2710
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2221,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 2809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2715,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2938
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 1992,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2943,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3284
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 3448,
+                        "endLine": 91,
+                        "endColumn": 12,
+                        "endOffset": 3789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3289,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 3575
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3156,
+                        "endLine": 83,
+                        "endColumn": 12,
+                        "endOffset": 3442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3580,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 3911
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3916,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 4134
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4139,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 4447
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-v11/styles.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 2815,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 3123
+                    }
+                }
+            }
+        ]
+    }
+]

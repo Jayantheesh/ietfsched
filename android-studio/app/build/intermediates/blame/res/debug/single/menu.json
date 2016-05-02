@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/menu/default_menu_items.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/menu/default_menu_items.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/menu/session_detail_menu_items.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/menu/session_detail_menu_items.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/menu/map_menu_items.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/menu/map_menu_items.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/menu/export_menu_items.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/menu/export_menu_items.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/menu/schedule_menu_items.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/menu/schedule_menu_items.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/menu/refresh_menu_items.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/menu/refresh_menu_items.xml"
+    }
+]

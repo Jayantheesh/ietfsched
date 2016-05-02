@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_vendors.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_vendors.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_sessions.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_sessions.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_search.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_search.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/actionbar_indeterminate_progress.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/fragment_tracks_dropdown.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/fragment_tracks_dropdown.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/actionbar.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/actionbar.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/tab_indicator.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/tab_indicator.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_home.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_home.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/colorstrip.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/colorstrip.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_now_playing.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_now_playing.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_schedule.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_schedule.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_starred.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_starred.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/fragment_session_detail.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/fragment_session_detail.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/layout-xlarge-v11/activity_map.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/layout-xlarge-v11/activity_map.xml"
+    }
+]

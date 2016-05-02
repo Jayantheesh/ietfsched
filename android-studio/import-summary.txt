@@ -1,0 +1,78 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/.name
+* .idea/android.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* BUILDING.txt
+* ant.properties
+* build.xml
+* tests.old/
+* tests.old/AndroidManifest.xml
+* tests.old/assets/
+* tests.old/assets/local-blocks.xml
+* tests.old/assets/local-rooms.xml
+* tests.old/assets/local-sessions.xml
+* tests.old/assets/local-tracks.xml
+* tests.old/assets/remote-sessions1.xml
+* tests.old/assets/remote-sessions2.xml
+* tests.old/assets/spreadsheet-empty.xml
+* tests.old/assets/spreadsheet-emptyfield.xml
+* tests.old/assets/spreadsheet-normal.xml
+* tests.old/assets/spreadsheet-single.xml
+* tests.old/build.properties
+* tests.old/build.xml
+* tests.old/default.properties
+* tests.old/src/
+* tests.old/src/com/
+* tests.old/src/com/google/
+* tests.old/src/com/google/android/
+* tests.old/src/com/google/android/apps/
+* tests.old/src/com/google/android/apps/iosched/
+* tests.old/src/com/google/android/apps/iosched/io/
+* tests.old/src/com/google/android/apps/iosched/io/SessionsHandlerTest.java
+* tests.old/src/com/google/android/apps/iosched/io/StubHttpClient.java
+* tests.old/src/com/google/android/apps/iosched/util/
+* tests.old/src/com/google/android/apps/iosched/util/SpreadsheetEntryTest.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/org/dalmasso/ietfsched/provider/ScheduleContract.sv => app/src/main/resources/org/dalmasso/ietfsched/provider/ScheduleContract.sv
+* src/org/dalmasso/ietfsched/ui/.build => app/src/main/resources/org/dalmasso/ietfsched/ui/.build
+* src/org/dalmasso/ietfsched/ui/TracksAdapter.sv => app/src/main/resources/org/dalmasso/ietfsched/ui/TracksAdapter.sv
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

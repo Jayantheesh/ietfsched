@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_12c7419ee93f0400904991fbdf10371af7c05214.jar" />
+    </item>
+    <item
+        jar="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_af02ac41ebdbdb48936fc74d42fc2699e2739411.jar" />
+    </item>
+    <item
+        jar="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/exploded-aar/com.mattprecious.telescope/telescope/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="50f52effc7cba5ca5f2083729826fe42ea9803cd">
+        <dex dex="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/pre-dexed/debug/com.mattprecious.telescope-telescope-2.0.0_333132c7dc6be1d8829d7730171c96fc5e56dcdb.jar" />
+    </item>
+    <item
+        jar="/home/jayantheesh/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_7eb38909dd00b42801af89a04966c25e06c50bd4.jar" />
+    </item>
+    <item
+        jar="/home/jayantheesh/tools/Lolipop/EclipseSetup/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_527725fab28de8a3f63cce1610f356ec78ea6821.jar" />
+    </item>
+
+</items>

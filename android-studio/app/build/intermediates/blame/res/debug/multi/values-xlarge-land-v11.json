@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/values-xlarge-land-v11/values-xlarge-land-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-land-v11/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 626,
+                        "endColumn": 52,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 47,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-land-v11/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 47,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/values-xlarge-land-v11/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 932
+                    }
+                }
+            }
+        ]
+    }
+]

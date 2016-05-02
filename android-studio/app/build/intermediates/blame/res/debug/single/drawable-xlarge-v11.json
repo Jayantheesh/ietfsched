@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-xlarge-v11/thickbar_left_background_interactive.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-xlarge-v11/thickbar_left_background_interactive.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-xlarge-v11/panel_button_background.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-xlarge-v11/panel_button_background.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-xlarge-v11/home_topleft_strip.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-xlarge-v11/home_topleft_strip.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-xlarge-v11/window_background.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-xlarge-v11/window_background.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-xlarge-v11/window_background_home.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-xlarge-v11/window_background_home.xml"
+    }
+]

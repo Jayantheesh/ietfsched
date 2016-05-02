@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_map.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_map.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_starred_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_starred_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_notes_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_notes_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/now_playing_icon.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/now_playing_icon.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_focused.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_focused.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/indicator_starred.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/indicator_starred.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_map_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_map_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whats_on_separator.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/whats_on_separator.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_block_mask.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_block_mask.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_refresh.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_refresh.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_block_border_selected.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_block_border_selected.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_announcements_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_announcements_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_schedule_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_schedule_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_notes_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_notes_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_share.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_share.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_focused.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_unselected_focused.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_map_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_map_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bezel_border.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/bezel_border.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_star_off_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_star_off_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_background.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_background.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/now_bar.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/now_bar.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_sessions_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_sessions_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_star_on_normal.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_star_on_normal.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_compat_separator.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/actionbar_compat_separator.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_selected_focused.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_selected_focused.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/schedule_indicator_right.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/schedule_indicator_right.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_sessions_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_sessions_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_schedule_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_schedule_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/schedule_indicator_left.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/schedule_indicator_left.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_block_star.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_block_star.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_home.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_home.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whats_on_button_default.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/whats_on_button_default.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/colorstrip_shadow.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/colorstrip_shadow.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bezel_mask.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/bezel_mask.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_off_background.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_off_background.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_announcements_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_announcements_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_schedule_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_schedule_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_vendors_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_vendors_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_map_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_map_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_star_off_normal.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_star_off_normal.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_star_on_focused.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_star_on_focused.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/actionbar_compat_background.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/actionbar_compat_background.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_starred_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_starred_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whats_on_button_pressed.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/whats_on_button_pressed.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_sessions_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_sessions_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_unselected.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg_selected.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_bg_selected.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_today.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_today.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_vendors_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_vendors_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_search.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_search.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_selected.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_selected.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_pressed.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_vendors_default.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_vendors_default.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/colorstrip.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/colorstrip.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_block_border_pressed.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_block_border_pressed.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_star_on_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_star_on_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_starred_pressed.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_starred_pressed.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_default.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_default.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_block_border_default.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_block_border_default.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_announcements_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_announcements_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_notes_selected.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/home_btn_notes_selected.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_unselected_pressed.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_unselected_pressed.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_bg_pressed.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_star_off_focused.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/btn_star_off_focused.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/whats_on_background.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/whats_on_background.9.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_title_export.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/ic_title_export.png"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tab_selected_pressed.9.png",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable-hdpi/tab_selected_pressed.9.png"
+    }
+]

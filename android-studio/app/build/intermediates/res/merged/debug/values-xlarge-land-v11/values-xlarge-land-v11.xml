@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_side_padding">56dp</dimen>
+    <dimen name="thickbar_height">134dp</dimen>
+    <style name="Theme.IOSched" parent="android:style/Theme.Holo.Light">
+        <item name="android:windowBackground">@drawable/window_background</item>
+        <item name="android:actionBarStyle">@style/ActionBar</item>
+        <item name="textHeaderMaxLines">2</item>
+        <item name="trackAbstractMaxLines">2</item>
+    </style>
+</resources>

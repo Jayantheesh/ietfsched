@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/btn_block.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/btn_block.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_notes.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_notes.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/background_noise.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/background_noise.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/btn.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/btn.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/actionbar_compat_button.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/actionbar_compat_button.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/btn_block_border.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/btn_block_border.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/tab_indicator.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/tab_indicator.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/btn_star.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/btn_star.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_announcements.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_announcements.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_map.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_map.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_vendors.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_vendors.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/whats_on_button.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/whats_on_button.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_starred.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_starred.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_schedule.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_schedule.xml"
+    },
+    {
+        "merged": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/build/intermediates/res/merged/debug/drawable/home_btn_sessions.xml",
+        "source": "/home/jayantheesh/repo/GitHub/ietfsched/android studio/app/src/main/res/drawable/home_btn_sessions.xml"
+    }
+]

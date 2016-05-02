@@ -1,0 +1,14 @@
+int attr telescope_pointerCount 0x7f010000
+int attr telescope_progressColor 0x7f010001
+int attr telescope_screenshotChildrenOnly 0x7f010003
+int attr telescope_screenshotMode 0x7f010002
+int attr telescope_vibrate 0x7f010004
+int id canvas 0x7f020000
+int id none 0x7f020001
+int id system 0x7f020002
+int[] styleable telescope_TelescopeLayout { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable telescope_TelescopeLayout_telescope_pointerCount 0
+int styleable telescope_TelescopeLayout_telescope_progressColor 1
+int styleable telescope_TelescopeLayout_telescope_screenshotChildrenOnly 3
+int styleable telescope_TelescopeLayout_telescope_screenshotMode 2
+int styleable telescope_TelescopeLayout_telescope_vibrate 4
